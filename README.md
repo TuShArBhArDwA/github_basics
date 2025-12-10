@@ -129,7 +129,7 @@ git reset --hard HEAD~1
 
 ## Sponsor
 
-If you find this project helpful, consider supporting me:
+If you find this helpful, consider supporting me:
 
 - **Sponsor Me:** [Buy Me a Coffee!](https://github.com/sponsors/TuShArBhArDwA)
 
