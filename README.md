@@ -29,7 +29,7 @@ git add -A
 ```
 > Note: `git add` only stages changes. It does not save them permanently or push them anywhere.
 
-Git Commit
+## Git Commit
 Think of the Git Commit command like a checkpoint in your development process.
 
 Commit all staged changes:
@@ -66,19 +66,19 @@ git pull <remote> <branch-name>
 ## Git Branch
 Branches allow you to work on different features independently.
 
-Create a new branch:
+### Create a new branch:
 ```bash
 git branch <branch-name>
 ```
-Switch to an existing branch:
+### Switch to an existing branch:
 ```bash
 git checkout <branch-name>
 ```
-Create and switch to a new branch:
+### Create and switch to a new branch:
 ```bash
 git switch -c <branch-name>
 ```
-List all branches:
+### List all branches:
 ```bash
 git branch
 ```
@@ -100,7 +100,7 @@ View connected remote repositories:
 ```bash
 git remote -v
 ```
-Git Stash
+## Git Stash
 Temporarily save uncommitted changes:
 
 ```bash
